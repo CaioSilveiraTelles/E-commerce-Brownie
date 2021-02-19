@@ -1,0 +1,30 @@
+Version 1.0
+	Release
+	Release
+
+Version 1.1
+    Documentation updated
+    Plugins updated
+
+Version 1.2
+    Updated plugins to their latest versions
+    Add WordPress 4.9 compatibility
+
+Version 1.2.1
+    	Added:
+    		- Compatibility with WP 5.0.3
+    		- Compatibility with PHP7.2
+    		- Contact Form 7
+            - Alert to Demo data installation
+            - Privacy Policy page
+
+        Fixed:
+            - Compatibility with Gutenberg
+            - Update plugins to their latest versions
+            - Improve theme styles
+            - Scripts libraries updated
+
+
+        Changed:
+            - Update default contact forms to make them GDPR-compliant
+    		- Update demo data

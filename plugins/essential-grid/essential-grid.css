@@ -1,0 +1,28 @@
+/* Essential Grid styles
+----------------------------------------------------------------- */
+
+.esg-grid i[class*="eg-icon-"] {
+	color: #fff;
+	-webkit-transition: color .5s ease;
+	-ms-transition: color .5s ease;
+	transition: color .5s ease;
+}
+
+.flat-light .esg-filters .esg-sortbutton-order,
+.flat-light .esg-filters .esg-cartbutton-order {
+	line-height:36px;
+	margin:0;
+}
+.flat-light .esg-filters .esg-sortbutton {
+	padding-right: 0;
+}
+
+.esgbox-overlay {
+	z-index: 28010 !important;
+}
+.esgbox-opened {
+	z-index: 28030 !important;
+}
+.esg-grid .mainul li.eg-washington-wrapper {
+	background-color: #ffffff!important;
+}

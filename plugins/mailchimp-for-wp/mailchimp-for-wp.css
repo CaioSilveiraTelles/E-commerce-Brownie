@@ -1,0 +1,33 @@
+/* MailChimp for WP styles
+----------------------------------------------------------------- */
+.mc4wp-form {
+}
+.mc4wp-form .mc4wp-form-fields input[type="email"] {
+	padding: 0.8em 1.5em;
+	width: 100%;
+	max-width: 145px;
+	vertical-align:top;
+    -webkit-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+            box-sizing: border-box;
+}
+.mc4wp-form .mc4wp-form-fields input[type="submit"] {
+	z-index:1;
+	vertical-align:top;
+	padding: 0.65em 1.5em;
+	border: 2px solid !important;
+	margin-left: -2px;
+}
+.mc4wp-form .mc4wp-form-fields input[type="submit"],
+.mc4wp-form .mc4wp-form-fields input[type="email"] {
+	height: 47px;
+	box-sizing: border-box;
+}
+.mc4wp-form .mc4wp-alert {
+	margin: 1.5em 0;
+	padding: 1em;
+	line-height:1.5em;
+}
+.mc4wp-form-fields p {
+	margin-bottom: 0;
+}
